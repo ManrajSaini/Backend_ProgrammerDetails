@@ -31,12 +31,12 @@ DELETE : http://localhost:9000/programmer/:id
 
 # Tools / Configration
 
-- 1. NodeJS
-- 2. ExpressJS
-- 3. Mongo DB
-- 4. Rest API's
-- 5. Postman
-- 6. VS Code
+- NodeJS
+- ExpressJS
+- Mongo DB
+- Postman
+- Rest API's
+- VS Code
 
 # Stacks
 - Backend: NodeJS (using ExpressJS)
